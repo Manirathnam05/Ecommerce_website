@@ -1,0 +1,27 @@
+.descriptions{
+    margin:110px 170px ;
+    font-size:18px;
+}
+.descrip-two{
+    display:flex;
+    align-items:center;
+    gap:10px;
+    text-transform:capitalize;
+}
+.descrip-two .dis{
+    padding:20px 25px;
+    border:1px solid #c6c6c6;
+    border-radius:3px;
+    cursor: pointer;
+}
+.des-para {
+    padding:25px 20px;
+    border:1px solid #c6c6c6;
+    
+}
+.des-para p{
+    margin:10px;
+}
+.fade{
+    background-color:#fbfbfb;;
+}
